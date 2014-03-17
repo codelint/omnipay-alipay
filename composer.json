@@ -1,5 +1,5 @@
 {
-	"name": "uzise/omnipay-alipay",
+	"name": "codelint/omnipay-alipay",
 	"type": "library",
     "version": "1.0",
 	"description": "Alipay gateway for Omnipay payment processing library",
@@ -15,6 +15,10 @@
 	"homepage": "",
 	"license": "MIT",
 	"authors": [
+        {
+            "name": "Ray Zhang",
+            "email": "codelint@foxmail.com"
+        },
 		{
 			"name": "Loki Else",
 			"email": "lokielse@gmail.com"
