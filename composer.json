@@ -18,11 +18,7 @@
         {
             "name": "Ray Zhang",
             "email": "codelint@foxmail.com"
-        },
-		{
-			"name": "Loki Else",
-			"email": "lokielse@gmail.com"
-		}
+        }
 	],
 	"autoload": {
 		"psr-0": { "Omnipay\\Alipay\\" : "src/" }
